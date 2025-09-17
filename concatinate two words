@@ -1,0 +1,4 @@
+a=input("enter the word")
+b=input("enter the word")
+c=a+b
+print(c)
