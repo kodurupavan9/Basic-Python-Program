@@ -1,0 +1,3 @@
+a=int(input("enterthe time in minutes"))
+b=a*60
+print(b)
