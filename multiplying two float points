@@ -1,0 +1,4 @@
+a=float(input("enterthe number"))
+b=float(input("enterthe number"))
+c=a*b
+print(c)
